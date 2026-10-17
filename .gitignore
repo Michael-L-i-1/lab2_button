@@ -1,0 +1,8 @@
+# CubeIDE regenerates build outputs.
+Debug/
+Release/
+**/Debug/
+**/Release/
+.metadata/
+.DS_Store
+*.log

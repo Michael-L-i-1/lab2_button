@@ -8,10 +8,6 @@
 
 ![Push button toggling the blue LED](part2-push-button/videos/button_toggle.gif)
 
-[Demonstration video (.mov)](part2-push-button/videos/button_toggle.mov)
-
-[Original recording (.mov)](part2-push-button/videos/button_toggle_original.mov)
-
 ## 3.
 
 ### 3a.
@@ -20,6 +16,10 @@
 
 ### 3c.
 
+![Timer-driven LED sequence](part3-timer/videos/timer_sequence.gif)
+
 ## 4.
 
 ### 4a.
+
+![Button holding and releasing the LED sequence](part4-sorry-to-interrupt/videos/button_hold.gif)
