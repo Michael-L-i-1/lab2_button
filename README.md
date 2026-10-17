@@ -6,6 +6,12 @@
 
 ### 2b.
 
+![Push button toggling the blue LED](part2-push-button/videos/button_toggle.gif)
+
+[Demonstration video (.mov)](part2-push-button/videos/button_toggle.mov)
+
+[Original recording (.mov)](part2-push-button/videos/button_toggle_original.mov)
+
 ## 3.
 
 ### 3a.
